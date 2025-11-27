@@ -1,5 +1,5 @@
 # <p align="center"> ❄️ Jogo do Caos: Geração de fractais com diferentes métricas ❄️ </p>
-<p align="center"> Projeto desenvolvido durante a disciplina de Espaços Normados, explorando métricas euclidiana, da soma e do máximo para estudo de estruturas fractais. </p>
+<p align="center"> Projeto desenvolvido durante a disciplina de Espaços Normados, sob orientação do Prof. Dr. Vinícius F. Wasques, explorando métricas euclidiana, da soma e do máximo para estudo de estruturas fractais. </p>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
