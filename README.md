@@ -32,6 +32,10 @@ Este trabalho tem como objetivo **explorar conceitos de espaços métricos para 
 *   Visualizar a evolução temporal da geração de fractais;
 *   Comparar os diferentes padrões formados.
 
+## ❄️ Resultados
+
+Aplicando, incialmente, o caso clássico com metade da distância, observa-se o surgimento do padrão esperado para o triângulo de Sierpinski. Com a alteração das razões da distância no intervalo $(0,1)$, os padrões observados são semelhantes, mudando o tamanho dos triângulos internos formados e alterando a área preenchida da figura. Para razões maiores que um, os pontos extrapolam o triângulo, mas ainda seguem uma geometria fractal simétrica em relação à região triangular, se expandindo em todas as direções ao se distanciar do centro --- aqui, é importante ressaltar que o padrão fractal emergente varia a cada geração devido à aleatoriedade do processo. Alterando as métricas utilizadas na construção do fractal, o padrão observado também difere bastante do fractal original, de modo que as regiões mais e menos preenchidas estão associadas aos conjuntos de pontos médios em cada caso. 
+
 ## 🗂️ Arquivos
 
 * <code> chaos_game_euclidian.ipynb </code>: geração de fractais utilizando a métrica euclidiana, variando frações da distância caminhada.
