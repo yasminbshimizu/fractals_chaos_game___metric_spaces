@@ -40,10 +40,11 @@ Aplicando, incialmente, o caso clássico com metade da distância, observa-se o 
 
 ## 🗂️ Arquivos
 
-* <code> chaos_game_euclidian.ipynb </code>: geração de fractais utilizando a métrica euclidiana, variando frações da distância caminhada.
-* <code> chaos_game_max.ipynb </code>: geração de fractais utilizando a métrica do máximo.
-* <code> chaos_game_sum.ipynb </code>: geração de fractais utilizando a métrica da soma.
-* <code> mean_points_geometry.ipynb </code>: métricas, esferas, pontos médios e suas representações geométricas.
+* <code>chaos_game_euclidian.ipynb</code> : geração de fractais utilizando a métrica euclidiana, variando frações da distância caminhada.
+* <code>chaos_game_max.ipynb</code> : geração de fractais utilizando a métrica do máximo.
+* <code>chaos_game_sum.ipynb</code> : geração de fractais utilizando a métrica da soma.
+* <code>mean_points_geometry.ipynb</code> : métricas, esferas, pontos médios e suas representações geométricas.
+* <code>results.png</code> : exemplo de fractais gerados para os principais casos explorados.
 
 ## 📚 Referências
 [1] MEAKIN, P. Fractal structures. Progress in Solid State Chemistry, v. 20, n. 3, p. 135–233, jan. 1990. DOI: 10.1016/0079-6786(90)90001-v.
