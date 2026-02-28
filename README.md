@@ -32,8 +32,14 @@ Este trabalho tem como objetivo **explorar conceitos de espaços métricos para 
 *   Visualizar a evolução temporal da geração de fractais;
 *   Comparar os diferentes padrões formados.
 
+## 🗂️ Arquivos
 
-## 📚 REFERÊNCIAS
+* <code> chaos_game_euclidian.ipynb </code>: geração de fractais utilizando a métrica euclidiana, variando frações da distância caminhada.
+* <code> chaos_game_max.ipynb </code>: geração de fractais utilizando a métrica do máximo.
+* <code> chaos_game_sum.ipynb </code>: geração de fractais utilizando a métrica da soma.
+* <code> metrics_spheres.ipynb </code>: métricas, esferas, e suas representações geométricas.
+
+## 📚 Referências
 [1] MEAKIN, P. Fractal structures. Progress in Solid State Chemistry, v. 20, n. 3, p. 135–233, jan. 1990. DOI: 10.1016/0079-6786(90)90001-v.
 
 [2]MARTÍNEZ-CRUZ, Miguel-Ángel; PATIÑO-ORTIZ, Julián; PATIÑO-ORTIZ, Miguel; BALANKIN, Alexander S. Some insights into the Sierpiński triangle paradox. Fractal and Fractional, v. 8, n. 11, p. 655, nov. 2024. DOI: 10.3390/fractalfract8110655.
